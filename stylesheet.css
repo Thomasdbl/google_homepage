@@ -1,0 +1,220 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  font-family: arial, sans-serif;
+  font-size: 13px;
+}
+
+li{
+  display: inline-block;
+}
+
+.content{
+  min-width: 980px;
+}
+
+/* navbar */
+
+.nav_bar{
+  position: relative; top: 8px;
+  height: 30px; width: inherit;
+  margin-bottom: 15px;
+}
+
+.nav_list{
+  float: right;
+  padding-left: 20px; padding-right: 26px;
+  height: inherit; width: inherit;
+}
+
+.nav_elements{
+  padding-right: 14px;
+  display: inline block;
+  position: relative;
+  top: 25%;
+}
+
+#Gmail{
+
+}
+
+#Images{
+
+}
+
+#Applications{
+  position: relative;
+  top: 12px;
+
+}
+
+#img_app_button{
+  width: 17px;
+  height: auto;
+}
+
+#Connexion{
+  border: 1px solid #4885e9;
+  border-radius: 2px;
+  background: #4885e9;
+  padding-left: 12px;
+  font-weight: bold;
+  color: white;
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+/* search area */
+
+
+.search_area{
+  width: auto; min-width: 980px; height: 415px;
+  padding-bottom: 137px;
+}
+
+.logo{
+  text-align: -webkit-center;
+  margin-top: 140px;
+}
+
+#img_logo_Google{
+  width: 384px;
+  height: auto;
+}
+
+.searchbar{
+  box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.16), 0px 0px 0px 1px rgba(0, 0, 0, 0.08);
+  margin-top: 15px;
+  width: 570px; height: 44px;
+
+}
+
+.searchbox{
+  width: 403px; height: 34px;
+  border-radius: 2px;
+  border-left-width: 0px;
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  padding-left: 16px;
+  padding-top: 6px;
+  padding-right: 9px;
+}
+
+#img_voice_search{
+  width: 24px;
+  height: auto;
+  position: relative;
+  top: 6px;
+  left: 50px;
+  padding-right: 10px;
+}
+
+.search_buttons{
+
+  width: 480px; height: 30px;
+  padding-top: 18px;
+}
+
+.button{
+  margin: 11px 4px 11px 4px;
+  padding: 8px 15px 8px 15px;
+  font-weight: bold;
+  color: #777;
+  background: whitesmoke;
+  border: 2px solid whitesmoke;
+  border-radius: 2px;
+  font-size: 13px;
+}
+
+.language_selection{
+  position: relative;
+  top: 47px;
+}
+
+#language{
+  color: blue;
+  padding-right: 5px;
+  padding-left: 3px;
+}
+
+/* footer */
+
+.footer{
+  height: 82px; width: 100%; min-width: 980px;
+  background-color: blue;
+  position: absolute;
+  bottom: 0;
+  background: whitesmoke;
+  color: #777
+}
+
+#top_footer{
+  padding-left: 27px;
+  height: 41px;
+  border-top: 1px solid rgb(222,222,222);
+  border-bottom: 1px solid rgb(222,222,222);
+}
+
+#country{
+  position: relative;
+  top: 11px;
+  font-size: 15px;
+}
+
+#bottom_footer{
+  height: 38px;
+}
+
+.list_footer_left{
+  position: relative;
+  top: 10px;
+  display: inline-block;
+  padding-right: 27px;
+}
+
+.list_footer_right{
+  position: relative;
+  top: 10px;
+  display: inline-block;
+  padding-right: 27px;
+  float: right;
+}
+
+.right{
+  padding-left: 27px;
+}
+
+.left{
+
+ padding-left: 27px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+gg
